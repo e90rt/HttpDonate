@@ -188,4 +188,4 @@ public async Task<bool> UpdateAsync(int id, TaskItem updateTask)
 - Метод обновляет существующую задачу по идентификатору. Если задача не найдена, возвращает `false`. После обновления данные записываются в файл.
 
 ## Работа программы
-![]https://github.com/e90rt/HttpDonate/blob/master/comand.png.
+![](https://github.com/e90rt/HttpDonate/blob/master/comand.png)
