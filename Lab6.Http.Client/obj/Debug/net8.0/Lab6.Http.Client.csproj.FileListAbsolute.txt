@@ -52,3 +52,4 @@ C:\Users\egorc\Desktop\homework\asvt\httpToDoList\Lab6.Http.Client\bin\Debug\net
 C:\Users\egorc\Desktop\homework\asvt\httpToDoList\Lab6.Http.Client\obj\Debug\net8.0\Lab6.Htt.EA422231.Up2Date
 C:\Users\egorc\Desktop\homework\asvt\httpToDoList\Lab6.Http.Client\obj\Debug\net8.0\Lab6.Http.Client.genruntimeconfig.cache
 C:\Users\egorc\Desktop\homework\asvt\httpToDoList\Lab6.Http.Client\obj\Debug\net8.0\ref\Lab6.Http.Client.dll
+C:\Users\egorc\Desktop\homework\asvt\httpToDoList\Lab6.Http.Client\obj\Debug\net8.0\Lab6.Http.Client.sourcelink.json

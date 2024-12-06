@@ -54,9 +54,9 @@ internal class Program
 
             if (key.Key == ConsoleKey.D3)
             {
-                Console.Write("Введите название задачи: ");
+                Console.Write("Введите ник: ");
                 var nick = Console.ReadLine() ?? "Без названия";
-                Console.Write("Введите описание задачи: ");
+                Console.Write("Введите описание доната: ");
                 var description = Console.ReadLine() ?? "Без описания";
                 Console.Write("Сумма доната: ");
                 var input = Console.ReadLine();
